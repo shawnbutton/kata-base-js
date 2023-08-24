@@ -12,7 +12,7 @@
     "watch": "jest --watch"
   },
   "devDependencies": {
-    "jest": "^29.3.1",
-    "standard": "^17.0.0"
+    "jest": "^29.6.4",
+    "standard": "^17.1.0"
   }
 }
